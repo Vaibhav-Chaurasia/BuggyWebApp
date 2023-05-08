@@ -1,0 +1,207 @@
+F:\BuggyWebApp\bin\BuggyWebApp.dll.config
+F:\BuggyWebApp\bin\BuggyWebApp.dll
+F:\BuggyWebApp\bin\BuggyWebApp.pdb
+F:\BuggyWebApp\bin\roslyn\csc.exe
+F:\BuggyWebApp\bin\roslyn\csc.exe.config
+F:\BuggyWebApp\bin\roslyn\csc.rsp
+F:\BuggyWebApp\bin\roslyn\csi.exe
+F:\BuggyWebApp\bin\roslyn\csi.rsp
+F:\BuggyWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\BuggyWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\BuggyWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\BuggyWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\BuggyWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\BuggyWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\BuggyWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\BuggyWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\BuggyWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\BuggyWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\BuggyWebApp\bin\roslyn\System.AppContext.dll
+F:\BuggyWebApp\bin\roslyn\System.Collections.Immutable.dll
+F:\BuggyWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\BuggyWebApp\bin\roslyn\System.IO.FileSystem.dll
+F:\BuggyWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\BuggyWebApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\BuggyWebApp\bin\roslyn\vbc.exe
+F:\BuggyWebApp\bin\roslyn\vbc.exe.config
+F:\BuggyWebApp\bin\roslyn\vbc.rsp
+F:\BuggyWebApp\bin\roslyn\VBCSCompiler.exe
+F:\BuggyWebApp\bin\roslyn\VBCSCompiler.exe.config
+F:\BuggyWebApp\bin\Antlr3.Runtime.dll
+F:\BuggyWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+F:\BuggyWebApp\bin\AspNet.ScriptManager.jQuery.dll
+F:\BuggyWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\BuggyWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\BuggyWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\BuggyWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\BuggyWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+F:\BuggyWebApp\bin\Microsoft.Web.Infrastructure.dll
+F:\BuggyWebApp\bin\Newtonsoft.Json.dll
+F:\BuggyWebApp\bin\System.Net.Http.Formatting.dll
+F:\BuggyWebApp\bin\System.Web.Helpers.dll
+F:\BuggyWebApp\bin\System.Web.Http.dll
+F:\BuggyWebApp\bin\System.Web.Http.WebHost.dll
+F:\BuggyWebApp\bin\System.Web.Mvc.dll
+F:\BuggyWebApp\bin\System.Web.Optimization.dll
+F:\BuggyWebApp\bin\System.Web.Razor.dll
+F:\BuggyWebApp\bin\System.Web.Webpages.Deployment.dll
+F:\BuggyWebApp\bin\System.Web.Webpages.dll
+F:\BuggyWebApp\bin\System.Web.Webpages.Razor.dll
+F:\BuggyWebApp\bin\WebGrease.dll
+F:\BuggyWebApp\bin\System.Web.Optimization.xml
+F:\BuggyWebApp\bin\Newtonsoft.Json.xml
+F:\BuggyWebApp\bin\Antlr3.Runtime.pdb
+F:\BuggyWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\BuggyWebApp\bin\System.Web.Razor.xml
+F:\BuggyWebApp\bin\System.Web.Webpages.xml
+F:\BuggyWebApp\bin\System.Web.Webpages.Deployment.xml
+F:\BuggyWebApp\bin\System.Web.Webpages.Razor.xml
+F:\BuggyWebApp\bin\System.Web.Helpers.xml
+F:\BuggyWebApp\bin\System.Web.Mvc.xml
+F:\BuggyWebApp\bin\System.Net.Http.Formatting.xml
+F:\BuggyWebApp\bin\System.Web.Http.xml
+F:\BuggyWebApp\bin\System.Web.Http.WebHost.xml
+F:\BuggyWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\BuggyWebApp\obj\Debug\BuggyWebApp.csproj.CoreCompileInputs.cache
+F:\BuggyWebApp\obj\Debug\BuggyWebApp.csproj.CopyComplete
+F:\BuggyWebApp\obj\Debug\BuggyWebApp.dll
+F:\BuggyWebApp\obj\Debug\BuggyWebApp.pdb
+F:\BuggyWebApp\obj\Debug\BuggyWebApp.csproj.AssemblyReference.cache
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\BuggyWebApp.dll.config
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\BuggyWebApp.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\BuggyWebApp.pdb
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\csc.exe
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\csc.exe.config
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\csc.rsp
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\csi.exe
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\csi.rsp
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\System.AppContext.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\System.Collections.Immutable.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\System.IO.FileSystem.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\vbc.exe
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\vbc.exe.config
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\vbc.rsp
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\VBCSCompiler.exe
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\VBCSCompiler.exe.config
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Antlr3.Runtime.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\AspNet.ScriptManager.jQuery.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Newtonsoft.Json.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Net.Http.Formatting.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Helpers.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Http.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Http.WebHost.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Mvc.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Optimization.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Razor.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Webpages.Deployment.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Webpages.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Webpages.Razor.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\WebGrease.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Optimization.xml
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Newtonsoft.Json.xml
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Antlr3.Runtime.pdb
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Razor.xml
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Webpages.xml
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Webpages.Deployment.xml
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Webpages.Razor.xml
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Helpers.xml
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Mvc.xml
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Net.Http.Formatting.xml
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Http.xml
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Http.WebHost.xml
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\obj\Debug\BuggyWebApp.csproj.AssemblyReference.cache
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\obj\Debug\BuggyWebApp.csproj.CoreCompileInputs.cache
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\obj\Debug\BuggyWebApp.csproj.CopyComplete
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\obj\Debug\BuggyWebApp.dll
+E:\BuggyApps\WebBuggyApp\BuggyWebApp\obj\Debug\BuggyWebApp.pdb
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\BuggyWebApp.dll.config
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\BuggyWebApp.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\BuggyWebApp.pdb
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\csc.exe
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\csc.exe.config
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\csc.rsp
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\csi.exe
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\csi.rsp
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\System.AppContext.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\vbc.exe
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\vbc.exe.config
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\vbc.rsp
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\VBCSCompiler.exe
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Antlr3.Runtime.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Newtonsoft.Json.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Net.Http.Formatting.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Helpers.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Http.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Http.WebHost.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Mvc.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Optimization.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Razor.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Webpages.Deployment.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Webpages.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Webpages.Razor.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\WebGrease.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Optimization.xml
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Newtonsoft.Json.xml
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Antlr3.Runtime.pdb
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Razor.xml
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Webpages.xml
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Webpages.Deployment.xml
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Webpages.Razor.xml
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Helpers.xml
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Mvc.xml
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Net.Http.Formatting.xml
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Http.xml
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\System.Web.Http.WebHost.xml
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\obj\Debug\BuggyWebApp.csproj.AssemblyReference.cache
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\obj\Debug\BuggyWebApp.csproj.CoreCompileInputs.cache
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\obj\Debug\BuggyWebApp.csproj.CopyComplete
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\obj\Debug\BuggyWebApp.dll
+C:\D drive\Testing\BuggyApps\WebBuggyApp\BuggyWebApp\obj\Debug\BuggyWebApp.pdb

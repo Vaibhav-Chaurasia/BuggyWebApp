@@ -1,0 +1,104 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage2.master.cs" Inherits="BuggyWebApp.MasterPage2" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Untitled Page</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+
+        .style1
+        {
+            font-size: x-large;
+            font-style: italic;
+        }
+        .style2
+        {
+            width: 72.0%;
+            font-size: 11.0pt;
+            font-family: Calibri, sans-serif;
+        }
+        .style3
+        {
+            text-align: right;
+        }
+        .style4
+        {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <p class="style3">
+        &nbsp;&nbsp;&nbsp;&nbsp;<asp:HyperLink ID="HyperLink8" runat="server" BackColor="#00FF99" 
+            NavigateUrl="~/User/SalaryAccountOpen.aspx" style="text-align: right">Salary Account Open</asp:HyperLink>
+        &nbsp;&nbsp;
+        <asp:HyperLink ID="HyperLink7" runat="server" BackColor="#00FF99" 
+            NavigateUrl="~/User/AccountOpeningForm.aspx" style="text-align: right">Open 
+        Free Account</asp:HyperLink>
+&nbsp;
+        <asp:HyperLink ID="HyperLink5" runat="server" BackColor="#0000CC" 
+            ForeColor="#CCFF33" NavigateUrl="~/HomePage.aspx" 
+            style="text-align: center">Home</asp:HyperLink>
+    </p>
+    <p align="center" class="MsoNormal">
+        &nbsp;<b><u><span 
+            style="font-size: 36.0pt; mso-bidi-font-size: 11.0pt; font-family: &quot;Arial Black&quot;,&quot;sans-serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: &quot;Times New Roman&quot;; color: #0066FF"><asp:ImageButton 
+            ID="ImageButton1" runat="server" Height="67px" ImageUrl="~/J0099203.GIF" 
+            Width="69px" />
+        Sun Bank Of India</span><span 
+            style="font-size: 36.0pt; font-family: &quot;Arial Black&quot;,&quot;sans-serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: &quot;Times New Roman&quot;; color: #0066FF"><br />
+        </span></u></b><span class="style1" 
+            style="mso-bidi-font-size: 11.0pt; font-family: &quot;Arial Black&quot;,&quot;sans-serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: &quot;Times New Roman&quot;; color: #0066FF">
+        With you always</span><o:p></o:p></p>
+    <p>
+        &nbsp;</p>
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    <p>
+        &nbsp;<asp:HyperLink ID="HyperLink3" runat="server" 
+            NavigateUrl="~/User/ChangePassword.aspx">Want To Change Your Password</asp:HyperLink>
+    </p>
+    <p>
+        &nbsp;</p>
+    <div align="center">
+        <table border="0" cellpadding="0" cellspacing="0" class="style2" 
+            style="mso-cellspacing: 0in; mso-padding-alt: 0in 0in 0in 0in" width="72%">
+            <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes">
+                <td style="border-top: solid #595959 1.0pt; border-left: none; border-bottom: solid #595959 1.5pt; border-right: none; mso-border-top-alt: solid #595959 .25pt; mso-border-bottom-alt: solid #595959 1.5pt; background: white; padding: 0in 0in 0in 0in">
+                    <p class="MsoNormal">
+                        <b>
+                        <span style="font-size:
+  13.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:
+  &quot;Times New Roman&quot;;color:#A00026;mso-no-proof:no">Important:Important:</span><span style="font-size:9.5pt;mso-bidi-font-size:12.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;color:#0F4BC4;mso-no-proof:no">&nbsp;</span><span style="font-size:9.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:
+  &quot;Times New Roman&quot;;color:#0F4BC4;mso-no-proof:no">Sun Bank or any of its representative never 
+                        sends you email/SMS or calls you over phone to get your personal information, 
+                        password or one time SMS (high security) password. Any such e-mail/SMS or phone 
+                        call is an attempt to fraudulently withdraw money from your account through 
+                        Internet Banking. Never respond to such email/SMS or phone call. Please report 
+                        immediately on</span><span style="font-size:9.5pt;mso-bidi-font-size:12.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;color:#0F4BC4;mso-no-proof:no">&nbsp;</span><span style="font-size:9.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:
+  &quot;Times New Roman&quot;;color:#0F4BC4;mso-no-proof:no">report.phishing@sbi.co.in</span><span style="font-size:9.5pt;mso-bidi-font-size:12.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;color:#0F4BC4;mso-no-proof:no">&nbsp;</span><span style="font-size:9.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:
+  &quot;Times New Roman&quot;;color:#0F4BC4;mso-no-proof:no">if you receive any such email/SMS or Phone 
+                        call. Immediately change your passwords if you have accidentally revealed your 
+                        credentials</span></b></p>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div class="style4">
+&nbsp;&nbsp;
+        <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </div>
+    </form>
+    </body>
+</html>

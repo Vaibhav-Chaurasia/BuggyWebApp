@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage5.master.cs" Inherits="BuggyWebApp.MasterPage5" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Untitled Page</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+
+        .style1
+        {
+            font-size: x-large;
+            font-style: italic;
+        }
+        .style2
+        {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="style2">
+        <div class="style2">
+&nbsp;<br />
+            <asp:ImageButton ID="ImageButton1" runat="server" Height="53px" 
+                ImageUrl="~/J0099203.GIF" Width="54px" />
+            <b><u>
+            <span style="font-size: 36.0pt; mso-bidi-font-size: 11.0pt; font-family: &quot;Arial Black&quot;,&quot;sans-serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: &quot;Times New Roman&quot;; color: #0066FF">
+            Sun Bank Of India</span><span 
+                style="font-size: 36.0pt; font-family: &quot;Arial Black&quot;,&quot;sans-serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: &quot;Times New Roman&quot;; color: #0066FF"><br />
+            </span></u></b><span class="style1" 
+                style="mso-bidi-font-size: 11.0pt; font-family: &quot;Arial Black&quot;,&quot;sans-serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: &quot;Times New Roman&quot;; color: #0066FF">
+            With you always</span><span 
+                style="font-size: 12.0pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; color: #FF0066"><o:p></o:p></span></div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
